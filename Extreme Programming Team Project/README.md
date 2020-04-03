@@ -1,5 +1,6 @@
 
-#### Speedclock: A speaking desktop clock (https://github.com/maazu/Java/tree/master/Extreme%20Programming%20Team%20Project/src/main/java/cethreetwenty/two)
+#### Speedclock: A speaking desktop clock 
+[Features Directory](https://github.com/maazu/Java/tree/master/Extreme%20Programming%20Team%20Project/src/main/java/cethreetwenty/two)
 
 Add your development guide and setup guide here...
 
